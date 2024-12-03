@@ -1,4 +1,5 @@
 <img src=https://i.ytimg.com/vi/kXkVpBuVlPs/maxresdefault.jpg>
+Fuente: TeleSUR English(2016, octubre 8) Mexico City's Air Pollution Crisis [Video]. YouTube. URL: https://www.youtube.com/watch?v=kXkVpBuVlPs
 ## PPv6
 Repositorio para archivos del Proyecto Prototipico de sexto semestre LCDN URC sede MAC donde se abordara la evaluación y análisis de las condiciones climáticas en la Ciudad de México para identificar tendencias y su impacto a lo largo del tiempo.
 
